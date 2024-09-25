@@ -9,7 +9,14 @@ I also want this to help me with my teaching skills, and allow me to reach diffe
 Mostly I want this to be for you. I want you to know how to think like a programmer without thinking like a pascal programmer only. I want you to know how to solve a problem without just giving a java solution to a problem. I want you to understand a program even if you don't understand every tiny bit c#.
 
 ## Outline
-Vague ideas only. This will be a work in progress for a bit.
+### Solving a Problem
+Before writing a single line of code, you'll need to know what you're doing. Step 1 is always solving the problem, and that is the goal of this section.
+
+### Different Paradigms
+There are lots of different ways to solve the same problem. There are a handful of styles "groups" out there called paradigms. This section is an overview on some of them.
+
+### Reading Other People's Solutions
+If you use programming in a professional setting, you are more likely to be working on projects you didn't write than anything else. You'll be making changes to your company's product, helping fix somebody else's website, or adapting a project to your specific needs.
 
 ## Supplementary Material
 I am not the only source of knowledge, so I'm not going to pretend like I am. Here are some links to things I found helpful:
