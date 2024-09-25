@@ -18,3 +18,4 @@ I am not the only source of knowledge, so I'm not going to pretend like I am. He
 - I would put an online IDE here (integrated development environment), but I don't know of one that's still good. I used repl.it for years, but it has been en-shit-ified a lot. I'll just post some minimal ones I found from a quick search:
   - [code chef](https://www.codechef.com/ide) : I guess it looks pretty cool. It has a really nice visualiser with it. Doesn't run the fastest.
   - [online ide](https://www.online-ide.com/) : Dead simple, runs faster. Lots of languages supported, and a decent amount of settings.
+ - [kattis](https://open.kattis.com/) : Competitive programming style questions. A great way to practice solving many different types of problems.
