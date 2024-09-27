@@ -10,13 +10,29 @@ Mostly I want this to be for you. I want you to know how to think like a program
 
 ## Outline
 ### Solving a Problem
-Before writing a single line of code, you'll need to know what you're doing. Step 1 is always solving the problem, and that is the goal of this section.
+todo
 
 ### Different Paradigms
-There are lots of different ways to solve the same problem. There are a handful of styles "groups" out there called paradigms. This section is an overview on some of them.
+This was shamelessly ripped from the wiki on programming paradigms.
+- Imperative
+  - Procedural
+  - Object oriented
+    - Class-based
+    - Prototype-based
+- Declarative
+  - Functional
+  - Logic
+  - Reactive
+- Concurrent programming
+  - Actor programming
+- Constraint programming
+- Dataflow programming
+- Generic programming
+- Metaprogramming
+- Rule-based programming
 
 ### Reading Other People's Solutions
-If you use programming in a professional setting, you are more likely to be working on projects you didn't write than anything else. You'll be making changes to your company's product, helping fix somebody else's website, or adapting a project to your specific needs.
+todo
 
 ## Supplementary Material
 I am not the only source of knowledge, so I'm not going to pretend like I am. Here are some links to things I found helpful:
