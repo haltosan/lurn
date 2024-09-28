@@ -39,6 +39,9 @@ This was shamelessly ripped from the wiki on programming paradigms.
 ### Reading Other People's Solutions
 todo
 
+## Data Structures
+todo
+
 ## Supplementary Material
 I am not the only source of knowledge, so I'm not going to pretend like I am. Here are some links to things I found helpful:
 - [crash course computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) : Their intro video does a great job of explaining everything in it. More of "what are computers" than "how to program". This is optional but very very helpful for people learning lower level languages (like c or something).
