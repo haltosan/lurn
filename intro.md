@@ -10,7 +10,12 @@ Mostly I want this to be for you. I want you to know how to think like a program
 
 ## Outline
 ### Solving a Problem
-todo
+- Algorithms
+- ...
+- Fibonacci
+- Valid parentheses
+- ...
+- Find an interesting problem for yourself to solve
 
 ### Different Paradigms
 This was shamelessly ripped from the wiki on programming paradigms.
