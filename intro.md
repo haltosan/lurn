@@ -14,6 +14,7 @@ Mostly I want this to be for you. I want you to know how to think like a program
 - ...
 - Fibonacci
 - Valid parentheses
+- Sorting a list of numbers
 - ...
 - Find an interesting problem for yourself to solve
 
